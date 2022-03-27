@@ -7,7 +7,7 @@ Biology
 72.0
 true
 Fri Jun 19 17:24:00 PDT 2020
-[>C:\Users\REDFIELD\Documents, >C:\Users\REDFIELD\Documents]
+[>C:\Users\Redfield\Documents, >C:\Users\Redfield\Documents]
 organize my files
 [-organize documents folder, -organize photos folder]
 cognitive
@@ -17,7 +17,7 @@ Philosophy
 30.0
 true
 Tue Jun 16 17:24:00 PDT 2020
-[>C:\Users\REDFIELD\Documents, >C:\Users\REDFIELD\Pictures]
+[>C:\Users\Redfield\Documents, >C:\Users\Redfield\Pictures]
 watch videos on youtube
 [-watch a rainbow siege video, -watch a dog video]
 cognitive

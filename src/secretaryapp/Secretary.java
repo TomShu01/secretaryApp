@@ -12,6 +12,7 @@ import java.io.InputStreamReader;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.text.ParseException;
+import java.util.Locale;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.time.LocalDateTime;
@@ -266,7 +267,7 @@ public class Secretary extends javax.swing.JFrame {
             String dl2 = reader.readLine();
             Date deadline2 = new Date();
             if (!dl2.equals("null")) {
-                deadline2 =  new SimpleDateFormat("E MMM dd HH:mm:ss z yyyy").parse(dl2);
+                deadline2 =  new SimpleDateFormat("E MMM dd HH:mm:ss z yyyy", Locale.US).parse(dl2);
             }
             
             ArrayList<String> resources = new ArrayList ();
