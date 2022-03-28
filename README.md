@@ -1,5 +1,8 @@
 # secretaryApp
 ![secretaryApp](docs/secretaryApp_demo_img.png)
+
+## Video Demonstration
+[![Alternate Text](docs/video_thumbnail.jpg)](https://www.youtube.com/watch?v=mow3Lck1buM "Link Title")
 ## Project Overview
 secretaryApp is a tool that is designed to filter out grunt work and makes daily life a lot simpler and eliminate repetitions of useless work
 
