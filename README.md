@@ -9,9 +9,14 @@ I have an idea which is best illustrated by the following analogy: it's better t
 ## What it does
 It makes your life easier by performing the following functions:
 * Task recording: take in the details of the task
+![secretaryApp task record](docs/secretaryApp_task_record.gif)
 * Sets up and organizes tasks: you find resources and put them into here. Next time, with just one click, you can open up all the things you need to keep working
-* Based on your preferences ("machine learning" from reflections as well), automatically adjusts my schedule
+![secretaryApp resources1](docs/secretaryApp_resources1.gif)
+![secretaryApp resources2](docs/secretaryApp_resources2.gif)
+* Based on your preferences, provides recommendations for how you can schedule your work
+![secretaryApp advice](docs/secretaryApp_advice.gif)
 * Reflections: Automatically records your task data (the time the task is completed, stress level of task, efficiency of task, types of task etc.) and gives analysis for your reflections
+![secretaryApp stats](docs/secretaryApp_stats.gif)
 
 ## How I built it
 * planning for this project started a long time ago. I used 3 weeks in total to brainstorm the ideas (what is most useful to me, what is realistic to do etc.).
