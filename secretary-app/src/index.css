@@ -1,0 +1,62 @@
+/* defines styling for all forms in the app */
+form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 100%;
+    max-width:800px;
+    margin: auto;
+    background-color: #f0f8ff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 255, 0.1);
+    border-radius: 12px;
+}
+
+h2 {
+  color: #004080;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+label {
+  align-self: flex-start;
+  margin-right: 5px;
+  color: #0066cc;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+input {  
+  padding: 5px;
+  margin-right: 5px;
+  border-radius: 8px;
+  border: 1px solid #80c1ff;
+  outline: none;
+  background-color: #e6f2ff;
+  color: #004080;
+  font-size: 12px;
+}
+
+input:focus {
+  border: 1px solid #0066cc;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #0066cc;
+  color: #fff;
+  font-weight: bold;
+  font-size: 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #004080;
+}
+  
+  

@@ -1,0 +1,41 @@
+.task-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.task-block {
+  width: 250px;
+  padding: 20px;
+  background-color: #f0f8ff;
+  border: 2px solid #80c1ff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 255, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.task-block:hover {
+  background-color: #e6f2ff;
+  box-shadow: 0 10px 20px rgba(0, 0, 255, 0.2);
+  transform: translateY(-5px);
+}
+
+.task-block h3 {
+  color: #004080;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.task-block p {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.task-block:hover {
+  cursor: pointer;
+}
+  
